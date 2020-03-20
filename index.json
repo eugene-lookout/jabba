@@ -958,7 +958,7 @@
       "jdk": {
         "1.13.0-2": "tgz+https://download.oracle.com/otn-pub/java/jdk/13.0.2+8/d4173c853231432d94f001e99d882ca7/jdk-13.0.2_osx-x64_bin.tar.gz",
         "1.13.0": "tgz+https://download.oracle.com/otn-pub/java/jdk/13.0.2+8/d4173c853231432d94f001e99d882ca7/jdk-13.0.2_osx-x64_bin.tar.gz",
-        "1.6.65": "dmg+https://support.apple.com/downloads/DL1572/en_US/javaforosx.dmg"
+        "1.6.65": "dmg+https://updates.cdn-apple.com/2019/cert/041-88384-20191011-3d8da658-dca4-4a5b-b67c-26e686876403/JavaForOSX.dmg"
       }
     }
   }
